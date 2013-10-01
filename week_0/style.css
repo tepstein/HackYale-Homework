@@ -1,0 +1,17 @@
+body{
+	background-color: green;
+}
+
+
+h1 {
+	color: blue;
+	
+}
+
+.blue {
+	color:red;
+}
+
+
+/*class takes precedence over headings*/
+

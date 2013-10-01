@@ -1,0 +1,133 @@
+.heading {
+font: arial;
+font-size: 32px;
+background-color: white;
+height: 200px;
+line-height: 200px;
+text-align: center;
+;
+}
+
+.top1 {
+color:white;
+background-color: black;
+height: 100px;
+width:960px;
+line-height:100px;
+font: Times;
+text-align: left;
+font-size: 30px;
+border-radius: 10px;
+position:relative;
+margin: 0 auto;
+}
+
+.top2 {
+color:white;
+height: 100px;
+width: 105px;
+line-height:100px;
+font: Times;
+text-align: center;
+font-size: 15px;
+display:inline-block;
+position:absolute;
+right: 30px;
+}
+
+.top3 {
+color:white;
+height: 100px;
+width: 105px;
+line-height:100px;
+font: Times;
+text-align: center;
+font-size: 15px;
+display:inline-block;
+position:absolute;
+right: 135px;
+}
+
+.container1 {
+width:960px;
+margin: 0 auto;
+}
+
+.container2 {
+width:960px;
+height:800px;
+/*background-color: blue;*/
+margin: 0 auto;
+}
+
+.container3 {
+width: 296px;
+height:650px;
+display: inline-block;
+
+position:relative;
+left:31px;
+bottom:0px;
+}
+
+.bigcat {
+position:relative;
+bottom: 250px
+}
+
+
+
+.item1 {
+background-color: lightyellow;
+height: 500px;
+width: 296px;
+display: inline-block;
+position:relative;
+left:0px;
+border-radius: 20px;
+margin-bottom: 20px;
+}
+
+
+
+.item2 {
+background-color: lightyellow;
+height: 500px;
+width: 296px;
+display: inline-block;
+position:relative;
+left:36px;
+border-radius: 20px;
+margin-bottom:20px;
+}
+
+.item3 {
+background-color: lightyellow;
+height: 500px;
+width: 296px;
+display: inline-block;
+position:relative;
+left: 72px;
+border-radius: 20px;
+margin-bottom:20px;
+}
+
+.title {
+font: "Times New Roman";
+font-size: 50px;
+color: red;
+position:relative;
+bottom:240px;
+}
+
+.by {
+font-family: "Courier New";
+}
+
+
+
+
+
+
+
+

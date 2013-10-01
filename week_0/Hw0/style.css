@@ -1,0 +1,45 @@
+html { 
+  background: url(clouds.jpg) no-repeat center center fixed; 
+  
+}
+
+.white {
+background-color: white;
+}
+
+p {
+font-family: "Times New Roman", serif;
+margin:2cm 4cm 3cm 4cm;
+font-size: 18px;
+color:#494949
+;
+}
+
+.heading {
+color: #4169E1;
+text-align: center;
+font-size: 40px
+}
+
+.centerlink {
+color: #87CEEB;	
+font-family: "Arial", sans-serif;
+text-align: center;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px -5px 5px rgba(34,34,34,0.6);
+}
+
+p.right{
+	text-align: right;
+}
+
+div.transparent {
+	opacity:0.4;
+	background-color:white;
+}
+
