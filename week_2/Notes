@@ -1,0 +1,36 @@
+
+
+git commit -m "Helpful message"
+
+commit often, push less often
+
+margin: auto 
+
+You must define a width
+
+Vertical alignment:
+	vertical-align: top | middle | bottom | baseline
+	use a table
+
+.panel.last {}
+
+
+position absolute is relative to its last parent that is not position: static
+
+
+Programming
+(finally)
+syntax and semantics(what symbols mean)
+
+Parser- program that reads code
+Javascript YAY
+
+JavaScript has very loose grammar, awkward typing, type coercion
+	Functions are objects
+	Event loop... Javascript has asynchronous functions, doesn't necessarily go line by line
+	variables- named objects to which we can assign a value
+		var name= "Rafi";
+		assignment vs equality
+	NEVER USE ==, equality is done with ===
+	Encapsulate "code blocks" w/ curly braces
+
